@@ -12,9 +12,9 @@
 
 1.	In ``variables.php`` print the length([*](https://www.w3schools.com/php/func_string_strlen.asp)) and uppercase([*](https://www.w3schools.com/php/func_string_strtoupper.asp)) of the ``firstname`` variable.
 
-1.  Download card images from [here](images/cards.zip?raw=true) and copy the ``images`` folder into `htdocs`.  Each image is numbered from 1 to 52, one for each card in a deck.
+1.  Download card images from [here](images/cards.zip) and copy the ``images`` folder into `htdocs`.  Each image is numbered from 1 to 52, one for each card in a deck.
 
-1.  Save the the PHP program ``card.php`` below into your `htdocs` folder.  This code assigns a value to a ``card`` variable.  
+2.  Save the the PHP program ``card.php`` below into your `htdocs` folder.  This code assigns a value to a ``card`` variable.  
 
     ``- card.php -``
     ```php
