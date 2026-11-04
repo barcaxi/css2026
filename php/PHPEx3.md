@@ -3,7 +3,7 @@
 > Complete ALL the exercises in this section.  If you need a solution just ask.
 
 		
-1.	Write and execute the PHP program ``dbQuery.php`` that demonstrates how to retrieve data from an ``artist`` table in a database called [music](../files/music.sql).
+1.	Write and execute the PHP program ``dbQuery.php`` that demonstrates how to retrieve data from an ``artist`` table in a database called [music](files/music.sql).
 
 	![alt text](images/dbQuery_php.png "DB Query")
 	
